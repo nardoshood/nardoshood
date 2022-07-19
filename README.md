@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nardoshood&label=Profile%20views&color=0e75b6&style=flat" alt="nardoshood" /> </p>
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <p align="left"> <a href="https://twitter.com/nardos_hood" target="blank"><img src="https://img.shields.io/twitter/follow/nardos_hood?logo=twitter&style=for-the-badge" alt="nardos_hood" /></a> </p>
 
 - 🔭 I’m currently working on [Web3 projects](https://github.com/nardoshood/Web3-dApps)

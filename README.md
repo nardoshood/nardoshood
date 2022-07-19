@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nardos Tilahun</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm Nardos Tilahun </h1>
 <h3 align="center">A Web3 Engineer and blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nardoshood&label=Profile%20views&color=0e75b6&style=flat" alt="nardoshood" /> </p>

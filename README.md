@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Web3 projects](https://github.com/nardoshood/Web3-dApps)
 
-- ⛓ Blochcain I have enoyed working in sofar are **Ethereum | Algorand and now Polkodot**   
+- ⛓ Blochcain I have enoyed working on sofar are **Ethereum | Algorand and now Polkodot**   
 
 - 📝 I regularly write articles on [https://medium.com/@nardostilahun](https://medium.com/@nardostilahun)
 

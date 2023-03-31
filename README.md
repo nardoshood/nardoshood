@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Web3 projects](https://github.com/nardoshood/Web3-dApps)
 
-- 🌱 I’m currently learning **Ethereum blockchain technologies**
+- ⛓ Blochcain I have enoyed working in sofar are **Ethereum | Algorand and now Polkodot**   
 
 - 📝 I regularly write articles on [https://medium.com/@nardostilahun](https://medium.com/@nardostilahun)
 
@@ -18,8 +18,6 @@
 - 📫 How to reach me **nardostilahun83@gmail.com**
 
 - ⚡ Fun fact **I might be funny**
-
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

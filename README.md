@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nardos_hood" target="blank"><img src="https://img.shields.io/twitter/follow/nardos_hood?logo=twitter&style=for-the-badge" alt="nardos_hood" /></a> </p>
 
-- 🚀 I’m currently working as a Fullstack developer at [[feedel.ventures]]([https://github.com/nardoshood/Web3-dApps](https://www.feedel.ventures/))
+- 🚀 I’m currently working as a Fullstack developer at [feedel.ventures]([https://github.com/nardoshood/Web3-dApps](https://www.feedel.ventures/))
 
 - ⛓ Blochcain I have enoyed working on sofar are <b>Ethereum | Algorand </b>   
 

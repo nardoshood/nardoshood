@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm Nardos </h1>
 <h3 align="center">A Fullstack | Blockchain developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nardoshood&label=Profile%20views&color=0e75b6&style=flat" alt="nardoshood" /> </p>
-
 
 <p align="left"> <a href="https://twitter.com/nardos_hood" target="blank"><img src="https://img.shields.io/twitter/follow/nardos_hood?logo=twitter&style=for-the-badge" alt="nardos_hood" /></a> </p>
 
